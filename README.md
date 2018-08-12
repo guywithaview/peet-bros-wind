@@ -1,2 +1,4 @@
 # peet-bros-wind
-Peet Bros PRO Wind Vane to NMEA 0183
+An Arduino project for the Peet Bros PRO Wind Vane to produce NMEA 0183 output.
+
+Full documentation here: https://mechinations.net/wind-v3/
